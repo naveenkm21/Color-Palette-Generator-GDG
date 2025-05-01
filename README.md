@@ -49,6 +49,8 @@ npm run build
 
 ![image](https://github.com/user-attachments/assets/6ce9ecc9-4509-426e-9712-d16e1af5a2a8)
 
+- Copy function
+
 ![image](https://github.com/user-attachments/assets/e73e1fe7-f29d-48f1-9928-6ef599a48de1)
 
 - Save function
