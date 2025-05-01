@@ -2,8 +2,6 @@
 
 A modern web application for generating beautiful color palettes. Create, save, and share color schemes for your next project.
 
-![Color Palette Generator](https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ## Features
 
 - Generate color palettes using different harmony rules:
@@ -69,6 +67,3 @@ npm run build
 
 ![image](https://github.com/user-attachments/assets/a9af438b-8936-437e-b042-2cffd41d744f)
 
-## License
-
-MIT
